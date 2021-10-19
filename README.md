@@ -1,7 +1,7 @@
 Potage
 ======
 
-a crate for hishdigest calculation
+a crate for hashdigest calculation
 
 * support sha256, sha1, md5
 * from file / reader
